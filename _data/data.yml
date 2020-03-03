@@ -49,10 +49,12 @@ education:
       university: Karadeniz Technical University
       time: 2019 - present
       details: |
+        4.00 degree
     - degree: Computer Engineering
       university: Karadeniz Technical University
       time: 2013 - 2017
       details: |
+        2.96 degree
      - degree: Sociology
       university: Eskişehir Andolu University
       time: 2018 - present
@@ -79,8 +81,7 @@ projects:
         
       - title: Artificial Neural Systems
         link: "#"
-        tagline: 
-            RDPTA(R-category discrete perceptron)
+        tagline: RDPTA(R-category discrete perceptron)
             SCPTA(Single continuous perceptron)
             SDPTA(Single discrete perceptron)
             EBPTA(Error back-propagation)
@@ -127,9 +128,3 @@ skills:
         
       - name: C
         level: 50%
-        
-      - name: Cuda
-        level: 40%
-       
-      - name: Reverse Engineering
-        level: 30%
