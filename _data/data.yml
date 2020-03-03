@@ -81,11 +81,12 @@ projects:
         
       - title: Artificial Neural Systems
         link: "#hook"
-        tagline: RDPTA(R-category discrete perceptron)
-            SCPTA(Single continuous perceptron)
-            SDPTA(Single discrete perceptron)
-            EBPTA(Error back-propagation)
-            Java desktop app
+        tagline: | 
+          RDPTA(R-category discrete perceptron)
+          SCPTA(Single continuous perceptron)
+          SDPTA(Single discrete perceptron)
+          EBPTA(Error back-propagation)
+          Java desktop app
 
       - title: Remove ~ Minimized Periodic noise
         link: "https://github.com/mcvarer/Image-Processing/tree/master/PeriodicNoiseRemove"
@@ -101,8 +102,9 @@ projects:
         
       - title: Image Processing
         link: "#hook"
-        tagline: Otsu - Dilation - Erosion algorithms
-            The project used C++."
+        tagline: | 
+          Otsu - Dilation - Erosion algorithms
+          The project used C++."
 
 skills:
     title: Skills &amp; Proficiency
