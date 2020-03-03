@@ -80,7 +80,7 @@ projects:
         tagline: 
         
       - title: Artificial Neural Systems
-        link: "#"
+        link: "#hook"
         tagline: RDPTA(R-category discrete perceptron)
             SCPTA(Single continuous perceptron)
             SDPTA(Single discrete perceptron)
@@ -100,7 +100,7 @@ projects:
         tagline:
         
       - title: Image Processing
-        link: "#"
+        link: "#hook"
         tagline: Otsu - Dilation - Erosion algorithms
             The project used C++."
 
