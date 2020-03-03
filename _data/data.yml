@@ -48,11 +48,11 @@ education:
     - degree: MSc in Computer Science
       university: Karadeniz Technical University
       time: 2019 - present
-      details: | "4.00 degree"
+      details: |
     - degree: Computer Engineering
       university: Karadeniz Technical University
       time: 2013 - 2017
-      details: | "2.96 degree"
+      details: |
      - degree: Sociology
       university: Eskişehir Andolu University
       time: 2018 - present
@@ -78,7 +78,7 @@ projects:
         tagline: 
         
       - title: Artificial Neural Systems
-        link: "#hook"
+        link: "#"
         tagline: 
             RDPTA(R-category discrete perceptron)
             SCPTA(Single continuous perceptron)
@@ -99,7 +99,7 @@ projects:
         tagline:
         
       - title: Image Processing
-        link: "#hook"
+        link: "#"
         tagline: Otsu - Dilation - Erosion algorithms
             The project used C++."
 
