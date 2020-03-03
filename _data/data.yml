@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -47,24 +47,28 @@ career-profile:
 education:
     - degree: MSc in Computer Science
       university: Karadeniz Technical University
-      time: 2019 - 2021
+      time: 2019 - present
       details: |
     - degree: Computer Engineering
       university: Karadeniz Technical University
       time: 2013 - 2017
+      details: |
+     - degree: Sociology
+      university: Eskişehir Andolu University
+      time: 2018 - present
       details: |
 experiences:
     - role: Android Developer
       time: 2017 - 2017
       company: Megakent Bilişim Danışmanlık Ltd.Şti
       details: |
-        I served as an intern. I developed a Tax Control System project.
-        The project used Java-Soap and Android based technologies.
+        I work as an intern. I developed a Tax Control System project.
+        The project used Java-Soap-XML and Android based technologies.
     - role: Software Developer
       time: 2015 - 2015
       company: YALTES Elektronik ve Bilgi Sistemleri Üretim ve Ticaret A.Ş
       details: |
-        I served as an intern.I developed a Web-based library project.
+        I work as an intern.I developed a Web-based library project.
         The project used Java-MVC-Maven-AngularJS technologies.
 projects:
     title: Projects
@@ -74,12 +78,13 @@ projects:
         tagline: 
         
       - title: Artificial Neural Systems
-        link: "#"
-        tagline: "RDPTA(R-category discrete perceptron)
+        link: "#hook"
+        tagline: 
+            RDPTA(R-category discrete perceptron)
             SCPTA(Single continuous perceptron)
             SDPTA(Single discrete perceptron)
             EBPTA(Error back-propagation)
-            Java desktop app"
+            Java desktop app
 
       - title: Remove ~ Minimized Periodic noise
         link: "https://github.com/mcvarer/Image-Processing/tree/master/PeriodicNoiseRemove"
@@ -89,7 +94,7 @@ projects:
         link: "https://github.com/mcvarer/CMFD_Genetic"
         tagline:
 
-      - title: Paralell Computing with Cuda
+      - title: Parallel Computing with Cuda
         link: "https://github.com/mcvarer/Parallel-Computing-Cuda"
         tagline:
         
@@ -102,20 +107,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Linux 
+        level: 90%
+
+      - name: Deep Learning
+        level: 75%
+
+      - name: Keras
+        level: 75%
+
+      - name: Python
         level: 75%
 
       - name: Java
-        level: 75%
-
-      - name: C
         level: 60%
 
       - name: C++
         level: 60%
-
-      - name: Linux
-        level: 90%
-
-      - name: Deep Learning
-        level: 80%
+        
+      - name: C
+        level: 60%
+        
+      - name: Cuda
+        level: 40%
+       
+      - name: Reverse Engineering
+        level: 30%
