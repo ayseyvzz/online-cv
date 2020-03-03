@@ -18,7 +18,7 @@ sidebar:
     linkedin: mcanv
     github: mcvarer
     gitlab:
-    bitbucket:
+    bitbucket: mcanv
     # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -42,19 +42,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I graduated from computer engineering in 2017. I am currently doing a master's degree in computer science. 
-      I am interested in deep learning. I think I am good at problem solving, adaptation and ambition.
+      I graduated from computer engineering in 2017 and currently doing a master's degree in computer science now
+      interested in deep learning. I am good at problem solving, adaptation and ambition.
 education:
     - degree: MSc in Computer Science
       university: Karadeniz Technical University
       time: 2019 - present
-      details: |
-        4.00 degree
+      details: "4.00 degree"
     - degree: Computer Engineering
       university: Karadeniz Technical University
       time: 2013 - 2017
-      details: |
-        2.96 degree
+      details: "2.96 degree"
     - degree: Sociology
       university: Eskişehir Andolu University
       time: 2018 - present
@@ -75,36 +73,33 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Hyperspectral Image Classification
-        link: "https://github.com/mcvarer/HSI-VAE-Classification"
+      - title: 3D Hyperspectral Images CNN and VAE classification on Python, Keras
+        link: "https://github.com/mcvarer/HSI-VAE-Classification/"
         tagline: 
         
-      - title: Artificial Neural Systems
-        link: "#hook"
-        tagline: | 
-          RDPTA(R-category discrete perceptron)
-          SCPTA(Single continuous perceptron)
-          SDPTA(Single discrete perceptron)
-          EBPTA(Error back-propagation)
-          Java desktop app
+      - title: Advance Image processing on Matlab
+        link: "https://github.com/mcvarer/Image-Processing/"
+        tagline: 
 
-      - title: Remove ~ Minimized Periodic noise
-        link: "https://github.com/mcvarer/Image-Processing/tree/master/PeriodicNoiseRemove"
-        tagline: ""
-
-      - title: Copy-Mover Forgery Detection using Genetic Algorithms
-        link: "https://github.com/mcvarer/CMFD_Genetic"
+      - title: Copy-Mover Forgery Detection using Genetic Algorithms on Python
+        link: "https://github.com/mcvarer/CMFD_Genetic/"
         tagline:
 
-      - title: Parallel Computing with Cuda
-        link: "https://github.com/mcvarer/Parallel-Computing-Cuda"
+      - title: Parallel Computing on Cuda
+        link: "https://github.com/mcvarer/Parallel-Computing-Cuda/"
         tagline:
         
-      - title: Image Processing
-        link: "#hook"
-        tagline: | 
-          Otsu - Dilation - Erosion algorithms
-          The project used C++."
+      - title: Tax control System on Android
+        link: "https://bitbucket.org/megakent/taxcontrol/"
+        tagline:
+        
+      - title: Encrypted Messaging Application on Android
+        link: "https://bitbucket.org/Mc-Android/guvenlimesajlasma/"
+        tagline:
+        
+      - title: Big size Matrix mul. with Thread on Java
+        link: "https://github.com/mcvarer/matrix_mult_threads"
+        tagline:
 
 skills:
     title: Skills &amp; Proficiency
@@ -114,13 +109,19 @@ skills:
         level: 90%
 
       - name: Deep Learning
-        level: 80%
+        level: 85%
 
       - name: Keras
         level: 80%
 
+      - name: Computer Vision
+        level: 75%
+        
       - name: Python
         level: 75%
+    
+      - name: Android
+        level: 70%
 
       - name: Java
         level: 60%
