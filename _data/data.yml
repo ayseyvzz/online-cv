@@ -32,18 +32,25 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Table tennis
+      - item: Deep Learning
         link:
 
-      - item: Computer books reading
+      - item: Project euler problems
         link:
 
       
 career-profile:
     title: Career Profile
     summary: |
-      I graduated from computer engineering in 2017 and currently doing a master's degree in computer science now
-      interested in deep learning. I am good at problem solving, adaptation and ambition.
+      I graduated from computer engineering in 2017.My graduation degree is 2,96; currently doing a master's degree
+      in computer science now, and currently my master's degree is 4.00. 
+      I am interested in deep learning. My master thesis topic is 3d hyperspectral image classification. I finished coding
+      part of the thesis. My career aim is comprehensive projects such as rocket science, defending industry, medical, and
+      remote sensing. I am a ambitious person, but I am not impatient. I can work patiently to reach my aims and I can 
+      easily devote myself for my projects. I can solve the problems about my works. I can easily react against problems,
+      errors and fails. In my off days, I look after some courses such as MIT, Standford and Harward and I watch video lectures
+      of these kind of univerties videos. I need a opportunity for prove myself and doing good things for mankind.
+      
 education:
     - degree: MSc in Computer Science
       university: Karadeniz Technical University
@@ -54,19 +61,19 @@ education:
       time: 2013 - 2017
       details: "2.96 degree"
     - degree: Sociology
-      university: Eskişehir Andolu University
+      university: Eskisehir Anadolu University
       time: 2018 - present
       details: |
 experiences:
     - role: Android Developer
       time: 2017 - 2017
-      company: Megakent Bilişim Danışmanlık Ltd.Şti
+      company: Megakent Bilisim Danısmanlık Ltd.Sti
       details: |
         I work as an intern. I developed a Tax Control System project.
         The project used Java-Soap-XML and Android based technologies.
     - role: Software Developer
       time: 2015 - 2015
-      company: YALTES Elektronik ve Bilgi Sistemleri Üretim ve Ticaret A.Ş
+      company: YALTES Elektronik ve Bilgi Sistemleri Üretim ve Ticaret A.S
       details: |
         I work as an intern.I developed a Web-based library project.
         The project used Java-MVC-Maven-AngularJS technologies.
