@@ -69,19 +69,19 @@ experiences:
       time: 2017 - 2017
       company: Megakent Bilisim Danısmanlık Ltd.Sti
       details: |
-        I work as an intern. I developed a Tax Control System project.
-        The project used Java-Soap-XML and Android based technologies.
+        I worked as an intern. I developed a Tax Control System project.
+        The project used Java - Soap - XML and Android based technologies.
     - role: Software Developer
       time: 2015 - 2015
       company: YALTES Elektronik ve Bilgi Sistemleri Üretim ve Ticaret A.S
       details: |
-        I work as an intern.I developed a Web-based library project.
-        The project used Java-MVC-Maven-AngularJS technologies.
+        I worked as an intern.I developed a Web-based library project.
+        The project used Java - MVC - Maven - AngularJS technologies.
 projects:
     title: Projects
     assignments:
       - title: 3D Hyperspectral Images CNN and VAE classification on Python, Keras
-        link: "https://github.com/mcvarer/HSI-VAE-Classification/"
+        link: "#hook"
         tagline: 
         
       - title: Advance Image processing on Matlab
