@@ -32,13 +32,11 @@ sidebar:
         level: Professional
 
     references:
-      - item: Prof. Dr. Vasif Nabiyev
-        phone: +90 XXX XXX XX XX
-        details: KTÜ Bilgisayar Müh. Bölüm Başkanı
+      - item: Prof. Dr. Mustafa ULUTAŞ
+        link: "https://ceng2.ktu.edu.tr/~ulutas/"
 
       - item: Prof. Dr. Mustafa Ulutaş
-        phone:
-        details:  
+        link: "https://aves.ktu.edu.tr/vasif/yayinlar"
  
 career-profile:
     title: Career Profile
