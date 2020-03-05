@@ -38,8 +38,8 @@ sidebar:
       - item: Prof. Dr. Vasif NABIYEV
         link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
-      - item: Doç. Dr. Önder AYDEMİR
-        link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
+      # - item: Doç. Dr. Önder AYDEMİR
+      #   link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
         
       - item: Dr.Öğr.Üyesi Hızır ASLIYÜKSEK
         link: "https://avesis.istanbulc.edu.tr/hizir.asliyuksek"
@@ -86,7 +86,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: 3D Hyperspectral Images CNN and VAE classification on Python, Keras - 2020
+      - title: 3D Hyperspectral Images using CNN, VAE & GAN classification on Python, Keras - 2020
         link: "#hook"
         tagline: 
         
@@ -94,7 +94,7 @@ projects:
         link: "https://github.com/mcvarer/Image-Processing/"
         tagline: 
 
-      - title: Copy-Mover Forgery Detection using Genetic Algorithms on Python - 2019
+      - title: Copy-Move Forgery Detection using Genetic Algorithms on Python - 2019
         link: "https://github.com/mcvarer/CMFD_Genetic/"
         tagline:
 
