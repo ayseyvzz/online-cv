@@ -31,23 +31,13 @@ sidebar:
       - idiom: English
         level: Professional
 
-<<<<<<< HEAD
     references:
       - item: Prof. Dr. Vasif Nabiyev
         link:
 
       - item: Prof. Dr. Mustafa Ulutaş
         link:
-=======
-    interests:
-      - item: Deep Learning
-        link:
-
-      - item: Project euler problems
-        link: "https://projecteuler.net/"
->>>>>>> gh-pages
-
-      
+ 
 career-profile:
     title: Career Profile
     summary: |
