@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Professional working ability
 
     interests:
       - item: Prof. Dr. Mustafa ULUTAŞ
@@ -39,10 +39,11 @@ sidebar:
         link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
       - item: Doç. Dr. Önder AYDEMİR
-      - link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
+        link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
+        
+      - item: Dr.Öğr.Üyesi Hızır ASLIYÜKSEK
+        link: "https://avesis.istanbulc.edu.tr/hizir.asliyuksek"
 
-      - item: 
-      - link:
  
 career-profile:
     title: Career Profile
@@ -61,23 +62,23 @@ education:
       university: Karadeniz Technical University
       time: 2019 - present
       details: 
-    - degree: Computer Engineering
-      university: Karadeniz Technical University
-      time: 2013 - 2017
-      details: 
     - degree: Sociology
       university: Eskisehir Anadolu University
       time: 2018 - present
+      details: 
+    - degree: Computer Engineering
+      university: Karadeniz Technical University
+      time: 2013 - 2017
       details: |
 experiences:
     - role: Android Developer
-      time: 2017 - 2017
+      time: 2017
       company: Megakent Bilisim Danısmanlık Ltd.Sti
       details: |
         I worked as an intern. I developed a Tax Control System project.
         The project used Java - Soap - XML and Android based technologies.
     - role: Software Developer
-      time: 2015 - 2015
+      time: 2015
       company: YALTES Elektronik ve Bilgi Sistemleri Üretim ve Ticaret A.S
       details: |
         I worked as an intern.I developed a Web-based library project.
@@ -85,31 +86,31 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: 3D Hyperspectral Images CNN and VAE classification on Python, Keras
+      - title: 3D Hyperspectral Images CNN and VAE classification on Python, Keras - 2020
         link: "#hook"
         tagline: 
         
-      - title: Advance Image processing on Matlab
+      - title: Advance Image processing on Matlab - 2019
         link: "https://github.com/mcvarer/Image-Processing/"
         tagline: 
 
-      - title: Copy-Mover Forgery Detection using Genetic Algorithms on Python
+      - title: Copy-Mover Forgery Detection using Genetic Algorithms on Python - 2019
         link: "https://github.com/mcvarer/CMFD_Genetic/"
         tagline:
 
-      - title: Parallel Computing on Cuda
+      - title: Parallel Computing on Cuda - 2017
         link: "https://github.com/mcvarer/Parallel-Computing-Cuda/"
         tagline:
         
-      - title: Tax control System on Android
+      - title: Tax control System on Android - 2017
         link: "https://bitbucket.org/megakent/taxcontrol/"
         tagline:
         
-      - title: Encrypted Messaging Application on Android
+      - title: Encrypted Messaging Application on Android - 2017
         link: "https://bitbucket.org/Mc-Android/guvenlimesajlasma/"
         tagline:
         
-      - title: Big size Matrix mul. with Thread on Java
+      - title: Big size Matrix mul. with Thread on Java - 2017
         link: "https://github.com/mcvarer/matrix_mult_threads"
         tagline:
 
