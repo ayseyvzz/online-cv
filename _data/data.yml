@@ -32,8 +32,8 @@ sidebar:
         level: Professional working ability
 
     interests:
-      #- item: Prof. Dr. Mustafa ULUTAŞ
-      #  link: "https://ceng2.ktu.edu.tr/~ulutas/"
+      - item: Prof. Dr. Mustafa ULUTAŞ
+        link: "https://ceng2.ktu.edu.tr/~ulutas/"
 
       - item: Prof. Dr. Vasif NABIYEV
         link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
