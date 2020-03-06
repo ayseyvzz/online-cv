@@ -11,15 +11,15 @@
     {% for interest in interests %}
 
       {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      <h5><a href="{{ interest.link }}">{{ interest.item }}</a></h5>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <h5>{{ interest.item }}</h5>
       {% endif %}
     
       {% if interest.phone %}
-      <li class="phone"><i class="fas fa-phone"></i>
+      <h6 class="phone"><i class="fas fa-phone"></i>
         <a href="tel:{{ interest.phone }}">{{ interest.phone }}</a>
-      </li>
+      </h6>
       {% endif %}
     
       {% if interest.details %}
