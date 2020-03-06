@@ -33,15 +33,20 @@ sidebar:
 
     interests:
       - item: Prof. Dr. Mustafa ULUTAŞ
+        phone: +90 536 325 3301
         link: "https://ceng2.ktu.edu.tr/~ulutas/"
+        details: KTÜ Bilg. Müh. Bölüm Başkanı
 
       - item: Prof. Dr. Vasif NABIYEV
         link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
       - item: Doç. Dr. Önder AYDEMİR
+        phone: +90 505 487 1850
+        details: CA18106 - The neural architecture of consciousness " isimli aksiyonda  MC
         link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
         
       - item: Dr.Öğr.Üyesi Hızır ASLIYÜKSEK
+        details: Adli Tıp Başkan yard.
         link: "https://avesis.istanbulc.edu.tr/hizir.asliyuksek"
 
  
