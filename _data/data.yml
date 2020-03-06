@@ -32,14 +32,14 @@ sidebar:
         level: Professional working ability
 
     interests:
-      - item: Prof. Dr. Mustafa ULUTAŞ
-        link: "https://ceng2.ktu.edu.tr/~ulutas/"
+      #- item: Prof. Dr. Mustafa ULUTAŞ
+      #  link: "https://ceng2.ktu.edu.tr/~ulutas/"
 
       - item: Prof. Dr. Vasif NABIYEV
         link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
-      # - item: Doç. Dr. Önder AYDEMİR
-      #   link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
+      - item: Doç. Dr. Önder AYDEMİR
+        link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
         
       - item: Dr.Öğr.Üyesi Hızır ASLIYÜKSEK
         link: "https://avesis.istanbulc.edu.tr/hizir.asliyuksek"
