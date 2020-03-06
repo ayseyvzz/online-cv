@@ -1,9 +1,10 @@
+ 
 {% assign interests = site.data.data.sidebar.interests %}
 {% if interests %}
 <div class="interests-container container-block">
 
   <h2 class="container-block-title">
-    References
+    Interests
   </h2>
 
   <ul class="list-unstyled interests-list">
@@ -13,6 +14,18 @@
       <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
       {% else %}
       <li>{{ interest.item }}</li>
+      {% endif %}
+    
+      {% if sidebar.phone %}
+      <li class="phone"><i class="fas fa-phone"></i>
+        <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+      </li>
+      {% endif %}
+    
+      {% if interest.details %}
+      <div class="details">
+        {{ interest.details | markdownify }}
+      </div><!--//details-->
       {% endif %}
 
     {% endfor %}
