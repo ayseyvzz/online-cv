@@ -92,15 +92,15 @@ projects:
     title: Projects
     assignments:
       - title: Classification of ECG signals with deep learning for Parkinson's patients
-                on Python, Tensorflow - 2020
+                on Python, Tensorflow - 2020 - [%95-97 acc]
         link: "#hook"
         tagline: 
     
-      - title: 3D Hyperspectral Images using CNN, VAE & GAN classification on Python, Keras - 2020
+      - title: 3D Hyperspectral Images using CNN, VAE & GAN classification on Python, Keras - 2020 [%99 acc]
         link: "#hook"
         tagline: 
         
-      - title: Advance Image processing on Matlab - 2019
+      - title: Periodic noises remove in the image on Matlab - 2019
         link: "https://github.com/mcvarer/Image-Processing/"
         tagline: 
 
@@ -120,7 +120,7 @@ projects:
         link: "https://bitbucket.org/Mc-Android/guvenlimesajlasma/"
         tagline:
         
-      - title: Big size Matrix mul. with Thread on Java - 2017
+      - title: Matrix multiplication for vertical and horizontal ram difference on Java - 2017
         link: "https://github.com/mcvarer/matrix_mult_threads"
         tagline:
 
