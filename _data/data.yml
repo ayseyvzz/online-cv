@@ -91,6 +91,11 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Classification of ECG signals with deep learning for Parkinson's patients
+                on Python, Tensorflow - 2020
+        link: "#hook"
+        tagline: 
+    
       - title: 3D Hyperspectral Images using CNN, VAE & GAN classification on Python, Keras - 2020
         link: "#hook"
         tagline: 
