@@ -95,11 +95,11 @@ projects:
         link: "#hook"
         tagline: 
     
-      - title: Classification of EEG Signals with Deep Learning - 2020 - [%95-97 acc]
+      - title: Classification of EEG Signals using Deep Learning - 2020 - [%95-97 acc]
         link: "#hook"
         tagline: 
     
-      - title: 3D Hyperspectral Images using CNN, VAE & GAN classification  - 2020 [%99 acc]
+      - title: 3D Hyperspectral Images using CNN, VAE classification  - 2020 [%99 acc]
         link: "#hook"
         tagline: 
         
