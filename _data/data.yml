@@ -91,12 +91,15 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Classification of ECG signals with deep learning for Parkinson's patients
-                on Python, Tensorflow - 2020 - [%95-97 acc]
+      - title: Epileptic Seizure Recognition using LSTM - 2020 [%90-91]
         link: "#hook"
         tagline: 
     
-      - title: 3D Hyperspectral Images using CNN, VAE & GAN classification on Python, Keras - 2020 [%99 acc]
+      - title: Classification of EEG Signals with Deep Learning - 2020 - [%95-97 acc]
+        link: "#hook"
+        tagline: 
+    
+      - title: 3D Hyperspectral Images using CNN, VAE & GAN classification  - 2020 [%99 acc]
         link: "#hook"
         tagline: 
         
@@ -119,10 +122,6 @@ projects:
       - title: Encrypted Messaging Application on Android - 2017
         link: "https://bitbucket.org/Mc-Android/guvenlimesajlasma/"
         tagline:
-        
-      - title: Matrix multiplication for vertical and horizontal ram difference on Java - 2017
-        link: "https://github.com/mcvarer/matrix_mult_threads"
-        tagline:
 
 skills:
     title: Skills &amp; Proficiency
@@ -131,20 +130,23 @@ skills:
       - name: Linux 
         level: 90%
 
-      - name: Deep Learning
-        level: 85%
+      - name: Deep Learning & ML
+        level: 87%
 
       - name: Computer Vision
-        level: 80%
+        level: 83%
         
       - name: Keras, Tensorflow, Pandas, Numpy, Scikit-learn
-        level: 75%
+        level: 80%
     
       - name: Big Data
-        level: 70%
+        level: 76%
+        
+      - name: LaTeX
+        level: 73%
 
       - name: C/C++
-        level: 60%
+        level: 65%
 
       - name: Java
-        level: 60%
+        level: 61%
