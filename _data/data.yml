@@ -21,8 +21,8 @@ sidebar:
     bitbucket: mcanv
     # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: mcvarer
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # codewars: mcvarer
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Turkish
@@ -33,18 +33,18 @@ sidebar:
 
     interests:
       - item: Prof.Dr.Mustafa ULUTAŞ
-        phone: +90 536 325 3301
+        phone: +90 536 325 330X
         link: "https://ceng2.ktu.edu.tr/~ulutas/"
 
       - item: Dr.Öğr.Üyesi Murat AYKUT
-        phone: +90 551 621 7877
+        phone: +90 551 621 787X
         link: "https://aves.ktu.edu.tr/murat_aykut/"
         
       #- item: Prof.Dr.Vasif NABIYEV
       #  link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
       - item: Doç.Dr.Önder AYDEMİR
-        phone: +90 505 487 1850
+        phone: +90 505 487 185X
         link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
 
 career-profile:
@@ -91,7 +91,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Epileptic Seizure Recognition using LSTM - 2020 [%90-91]
+      - title: Epileptic Seizure Recognition using LSTM - 2020 - [%93-94 acc]
         link: "#hook"
         tagline: 
     
