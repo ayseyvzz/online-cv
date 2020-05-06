@@ -93,7 +93,7 @@ projects:
     assignments:
       - title: Epileptic Seizure Recognition using LSTM - 2020 - [%93-94 acc]
         link: "#hook"
-        tagline: "Makale yazımı için literatür araştırılması yapılıyor."
+        tagline: | Makale yazımı için literatür araştırılması yapılıyor.
     
       - title: Classification of EEG Signals using Deep Learning - 2020 - [%95-97 acc]
         link: "#hook"
@@ -101,7 +101,7 @@ projects:
     
       - title: 3D Hyperspectral Images using CNN, VAE classification  - 2020 [%99 acc]
         link: "#hook"
-        tagline: Yüksek Lisans Bitirme Tezi Konusu / Makale yazım aşamsında.
+        tagline: Yüksek Lisans Bitirme Tez Konusu / Makale yazım aşamsında.
         
       - title: Kaggle Fruit Classification using CNN, Residual block - 2020 [%91-92 acc]
         link: "https://github.com/mcvarer/CNN-Fruit-Classification"
