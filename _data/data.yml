@@ -93,7 +93,7 @@ projects:
     assignments:
       - title: Epileptic Seizure Recognition using LSTM - 2020 - [%93-94 acc]
         link: "#hook"
-        tagline: | Makale yazımı için literatür araştırılması yapılıyor.
+        tagline: Makale yazımı için literatür araştırılması yapılıyor.
     
       - title: Classification of EEG Signals using Deep Learning - 2020 - [%95-97 acc]
         link: "#hook"
@@ -113,11 +113,11 @@ projects:
         
       - title: Periodic noises remove in the image on Matlab - 2019
         link: "https://github.com/mcvarer/Image-Processing/"
-        tagline: Foruier Transform, Notch Filtering kullanılması
+        tagline: Fourier Transform, Notch Filtering kullanılması
 
       - title: Copy-Move Forgery Detection using Genetic Algorithms on Python - 2019
         link: "https://github.com/mcvarer/CMFD_Genetic/"
-        tagline: SİU 2020 Kabul olmuştur ama gönderilmemiştir. 
+        tagline: SİU 2020 için Kabul olmuştur ama gönderilmemiştir. 
 
       - title: Parallel Computing on Cuda - 2017
         link: "https://github.com/mcvarer/Parallel-Computing-Cuda/"
@@ -151,10 +151,10 @@ skills:
         level: 76%
         
       - name: LaTeX
-        level: 73%
+        level: 70%
 
       - name: C/C++
-        level: 65%
+        level: 60%
 
       - name: Java
-        level: 61%
+        level: 56%
