@@ -101,6 +101,14 @@ projects:
     
       - title: 3D Hyperspectral Images using CNN, VAE classification  - 2020 [%99 acc]
         link: "#hook"
+        tagline:
+        
+      - title: Kaggle Fruit Classification using CNN, Residual block - 2020 [%91-92 acc]
+        link: "https://github.com/mcvarer/CNN-Fruit-Classification"
+        tagline: deneme
+        
+      - title: Traffic Sign Recognition with opencv
+        link: "https://github.com/mcvarer/traffic-sign-recognition"
         tagline: 
         
       - title: Periodic noises remove in the image on Matlab - 2019
