@@ -93,31 +93,31 @@ projects:
     assignments:
       - title: Epileptic Seizure Recognition using LSTM - 2020 - [%93-94 acc]
         link: "#hook"
-        tagline: 
+        tagline: Makale yazımı için literatür araştırılması yapılıyor.
     
       - title: Classification of EEG Signals using Deep Learning - 2020 - [%95-97 acc]
         link: "#hook"
-        tagline: 
+        tagline: Human-Brain Interface / Makale yazım aşamsında.
     
       - title: 3D Hyperspectral Images using CNN, VAE classification  - 2020 [%99 acc]
         link: "#hook"
-        tagline:
+        tagline: Yüksek Lisans Bitirme Tezi Konusu / Makale yazım aşamsında.
         
       - title: Kaggle Fruit Classification using CNN, Residual block - 2020 [%91-92 acc]
         link: "https://github.com/mcvarer/CNN-Fruit-Classification"
-        tagline: deneme
+        tagline: Nesne tespiti için 120 sınıflı bir problem.
         
       - title: Traffic Sign Recognition with opencv
         link: "https://github.com/mcvarer/traffic-sign-recognition"
-        tagline: 
+        tagline: Opencv SIFT kütüphanesi kullanarak trafik işaretlerinin eşleşmesi.
         
       - title: Periodic noises remove in the image on Matlab - 2019
         link: "https://github.com/mcvarer/Image-Processing/"
-        tagline: 
+        tagline: Foruier Transform, Notch Filtering kullanılması
 
       - title: Copy-Move Forgery Detection using Genetic Algorithms on Python - 2019
         link: "https://github.com/mcvarer/CMFD_Genetic/"
-        tagline:
+        tagline: SİU 2020 Kabul olmuştur ama gönderilmemiştir. 
 
       - title: Parallel Computing on Cuda - 2017
         link: "https://github.com/mcvarer/Parallel-Computing-Cuda/"
@@ -135,7 +135,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux 
+      - name: Linux/Unix 
         level: 90%
 
       - name: Deep Learning & ML
@@ -144,7 +144,7 @@ skills:
       - name: Computer Vision
         level: 83%
         
-      - name: Keras, Tensorflow, Pandas, Numpy, Scikit-learn
+      - name: Tensorflow, Python, Pandas, Numpy, Scikit-learn
         level: 80%
     
       - name: Big Data
