@@ -33,18 +33,18 @@ sidebar:
 
     interests:
       - item: Prof.Dr.Mustafa ULUTAŞ
-        phone: +90 536 325 330X
+        phone: +90 536 325 3301
         link: "https://ceng2.ktu.edu.tr/~ulutas/"
 
       - item: Dr.Öğr.Üyesi Murat AYKUT
-        phone: +90 551 621 787X
+        phone: +90 551 621 7877
         link: "https://aves.ktu.edu.tr/murat_aykut/"
         
       #- item: Prof.Dr.Vasif NABIYEV
       #  link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
       - item: Doç.Dr.Önder AYDEMİR
-        phone: +90 505 487 185X
+        phone: +90 505 487 1850
         link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
 
 career-profile:
@@ -66,7 +66,7 @@ education:
     - degree: MSc in Computer Science
       university: Karadeniz Technical University
       time: 2019 - present
-      details: 
+      details: degree 4.00
     - degree: Sociology
       university: Eskisehir Anadolu University
       time: 2018 - present
