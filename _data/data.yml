@@ -82,18 +82,18 @@ skills:
 
     toolset:
       - name: Farklı alanlarda bakış açısına sahip olma
-        level: 90%  
+        level: 92%  
       - name: Etkili bir konuşma ve yazma
-        level: 85%     
+        level: 88%     
       - name: Eleştirel ve gözlemci yaklaşımda bulunma
-        level: 85%
+        level: 87%
       - name: İletişim Yönü
-        level: 85%  
+        level: 83%  
       - name: Analitik düşünme yeteneği
-        level: 80%
+        level: 75%
       - name: SPSS (Statistical Package for the Social Sciences)
-        level: 80%
-      - name: R programlama
         level: 65%
+      - name: R programlama
+        level: 50%
 
 
