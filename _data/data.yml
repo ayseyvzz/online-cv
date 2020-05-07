@@ -72,14 +72,13 @@ experiences:
       time: 2017
       company: Hatay Büyük Şehir Belediyesi
       details: |
-        I worked as an intern. I developed a Tax Control System project.
-        The project used Java - Soap - XML and Android based technologies.
+        SPSS programı kullanırak vaka analizi yapıldı.
 projects:
-    title: Projects
+    title: Projeler
     assignments:
-      - title: Epileptic Seizure Recognition using LSTM - 2020 - [%93-94 acc]
+      - title: Köy projesi
         link: "#hook"
-        tagline: Makale yazımı için literatür araştırılması yapılıyor.
+        tagline: HES için halk ile röpotaj
 
 skills:
     title: Yetenek &amp; Bilgisayar Kullanım
