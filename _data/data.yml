@@ -7,154 +7,88 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Murat Can VARER
-    tagline: MSc in Data Scientist & Deep Learning & AI
+    name: Ayşe YAVUZ
+    tagline: Sosyolog | Sosyal Çalışmacı
     avatar: mcanvarer@gmail.com.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 379438@cs.ktu.edu.tr
-    phone: +90 534 415 5747
+    email: ayseyvzz99@gmail.com
+    phone: +90 539 571 6177
     # website: blog.webjeda.com #do not add http://
-    linkedin: mcanv
-    github: mcvarer
+    linkedin: ayşe-yavuz-037194171
+    # github: mcvarer
     gitlab:
-    bitbucket: mcanv
+    # bitbucket: mcanv
     # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars: mcvarer
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Turkish
+      - idiom: Türkçe
         level: Native
 
-      - idiom: English
-        level: Professional working ability
+      - idiom: Arapça
+        level: Anlama ve Konuşma iyi
 
-    interests:
-      - item: Prof.Dr.Mustafa ULUTAŞ
-        phone: +90 536 325 3301
-        link: "https://ceng2.ktu.edu.tr/~ulutas/"
+#     interests:
+#       - item: Prof.Dr.Mustafa ULUTAŞ
+#         phone: +90 536 325 3301
+#         link: "https://ceng2.ktu.edu.tr/~ulutas/"
 
-      - item: Dr.Öğr.Üyesi Murat AYKUT
-        phone: +90 551 621 7877
-        link: "https://aves.ktu.edu.tr/murat_aykut/"
+#       - item: Dr.Öğr.Üyesi Murat AYKUT
+#         phone: +90 551 621 7877
+#         link: "https://aves.ktu.edu.tr/murat_aykut/"
         
-      #- item: Prof.Dr.Vasif NABIYEV
-      #  link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
+#       #- item: Prof.Dr.Vasif NABIYEV
+#       #  link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
     
-      - item: Doç.Dr.Önder AYDEMİR
-        phone: +90 505 487 1850
-        link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
+#       - item: Doç.Dr.Önder AYDEMİR
+#         phone: +90 505 487 1850
+#         link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I graduated from computer engineering in 2017.My graduation degree is 2,96; 
-      currently doing a master’s degree in computer science now, and currently my master’s degree is 4.00.
-      I am interested in deep learning. My master thesis topic is 3d hyper spectral image classification.
-      I finished coding part of the thesis. 
-      My career aim is comprehensive projects such as rocket science, defending industry, medical, and remote sensing. 
-      I am a ambitious person, but I am not impatient. 
-      I can work patiently to reach my aims and I can easily devote myself for my projects. 
-      I can solve the problems about my works. I can immediately react against problems, errors and fails. 
-      In my off days, I look after some courses such as MIT, Stanford and Harvard and 
-      I watch video lectures of these kind of universities videos. 
-      I need a opportunity for prove myself and doing good things for country.
+     title: Kariyer Hedefim
+#     summary: |
+#       I graduated from computer engineering in 2017.My graduation degree is 2,96; 
+#       currently doing a master’s degree in computer science now, and currently my master’s degree is 4.00.
+#       I am interested in deep learning. My master thesis topic is 3d hyper spectral image classification.
+#       I finished coding part of the thesis. 
+#       My career aim is comprehensive projects such as rocket science, defending industry, medical, and remote sensing. 
+#       I am a ambitious person, but I am not impatient. 
+#       I can work patiently to reach my aims and I can easily devote myself for my projects. 
+#       I can solve the problems about my works. I can immediately react against problems, errors and fails. 
+#       In my off days, I look after some courses such as MIT, Stanford and Harvard and 
+#       I watch video lectures of these kind of universities videos. 
+#       I need a opportunity for prove myself and doing good things for country.
       
 education:
-    - degree: MSc in Computer Science
-      university: Karadeniz Technical University
-      time: 2019 - present
+    - degree: Sosyoloji
+      university: Karadeniz Teknik Üniversitesi
+      time: 2017 - devam ediyor
       details: degree 4.00
-    - degree: Sociology
-      university: Eskisehir Anadolu University
-      time: 2018 - present
-      details: 
-    - degree: Computer Engineering
-      university: Karadeniz Technical University
-      time: 2013 - 2017
-      details: |
 experiences:
-    - role: Android Developer
+    - role: Sosyal hizmet
       time: 2017
-      company: Megakent Bilisim Danısmanlık Ltd.Sti
+      company: Hatay Büyük Şehir Belediyesi
       details: |
         I worked as an intern. I developed a Tax Control System project.
         The project used Java - Soap - XML and Android based technologies.
-    - role: Software Developer
-      time: 2015
-      company: YALTES Elektronik ve Bilgi Sistemleri Üretim ve Ticaret A.S
-      details: |
-        I worked as an intern.I developed a Web-based library project.
-        The project used Java - MVC - Maven - AngularJS technologies.
 projects:
     title: Projects
     assignments:
       - title: Epileptic Seizure Recognition using LSTM - 2020 - [%93-94 acc]
         link: "#hook"
         tagline: Makale yazımı için literatür araştırılması yapılıyor.
-    
-      - title: Classification of EEG Signals using Deep Learning - 2020 - [%95-97 acc]
-        link: "#hook"
-        tagline: Human-Brain Interface / Makale yazım aşamsında.
-    
-      - title: 3D Hyperspectral Images using CNN, VAE classification  - 2020 [%99 acc]
-        link: "#hook"
-        tagline: Yüksek Lisans Bitirme Tez Konusu / Makale yazım aşamsında.
-        
-      - title: Kaggle Fruit Classification using CNN, Residual block - 2020 [%91-92 acc]
-        link: "https://github.com/mcvarer/CNN-Fruit-Classification"
-        tagline: Nesne tespiti için 120 sınıflı bir problem.
-        
-      - title: Traffic Sign Recognition with opencv
-        link: "https://github.com/mcvarer/traffic-sign-recognition"
-        tagline: Opencv SIFT kütüphanesi kullanarak trafik işaretlerinin eşleşmesi.
-        
-      - title: Periodic noises remove in the image on Matlab - 2019
-        link: "https://github.com/mcvarer/Image-Processing/"
-        tagline: Fourier Transform, Notch Filtering kullanılması
-
-      - title: Copy-Move Forgery Detection using Genetic Algorithms on Python - 2019
-        link: "https://github.com/mcvarer/CMFD_Genetic/"
-        tagline: SİU 2020 için Kabul olmuştur ama gönderilmemiştir. 
-
-      - title: Parallel Computing on Cuda - 2017
-        link: "https://github.com/mcvarer/Parallel-Computing-Cuda/"
-        tagline:
-        
-      - title: Tax control System on Android - 2017
-        link: "https://bitbucket.org/megakent/taxcontrol/"
-        tagline:
-        
-      - title: Encrypted Messaging Application on Android - 2017
-        link: "https://bitbucket.org/Mc-Android/guvenlimesajlasma/"
-        tagline:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Yetenek &amp; Bilgisayar Kullanım
 
     toolset:
-      - name: Linux/Unix 
-        level: 90%
-
-      - name: Deep Learning & ML
-        level: 87%
-
-      - name: Computer Vision
-        level: 83%
-        
-      - name: Tensorflow, Python, Pandas, Numpy, Scikit-learn
+      - name: SPSS
         level: 80%
-    
-      - name: Big Data
-        level: 76%
-        
-      - name: LaTeX
-        level: 70%
 
-      - name: C/C++
-        level: 60%
+      - name: R
+        level: 65%
 
-      - name: Java
-        level: 56%
+
