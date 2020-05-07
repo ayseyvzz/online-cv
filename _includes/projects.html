@@ -26,10 +26,16 @@
         {{ project.title }}
         {% endif %}
       </span>
-
+      
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <div class="details">
+        {{ project.tagline | markdownify }}
+      </div><!--//details-->
       {% endif %}
+      
+<!--       {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %} -->
 
     </div><!--//item-->
   {% endfor %}
