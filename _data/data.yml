@@ -86,12 +86,14 @@ projects:
             Işıklar köylerinde bulunan HES’lerin halk için oluşturduğu avantaj ve 
             dezavantajları öncelikle arşiv taraması daha sonra bizzat halk ile gerçekleştirdiğimiz
             mülakat/anket ile oluşturup ilgili yerlere sunduk.
+            
     assignments:
       - title: Sosyal Vaka Çalışması
         link: "#hook"
         tagline: Araştırdığımız bir toplumsal sorun üzerinden sahaya inip belirlediğimiz cinsiyet, 
             yaş grupları, eğitim durumları vb. çeşitli bireylerle mülakat daha sonra duruma bağlı olup 
             anket çalışmasında bulunulmuş ve toplumun küçük kesiminden yola çıkarak araştırmamızın analizi yapılmıştır.
+            
     assignments:
       - title: Anket Çalışmaları
         link: "#hook"
