@@ -32,35 +32,14 @@ sidebar:
         level: Anlama ve Konuşma iyi
 
 #     interests:
-#       - item: Prof.Dr.Mustafa ULUTAŞ
-#         phone: +90 536 325 3301
-#         link: "https://ceng2.ktu.edu.tr/~ulutas/"
+#       - item: 
+#         phone: 
+#         link: 
 
-#       - item: Dr.Öğr.Üyesi Murat AYKUT
-#         phone: +90 551 621 7877
-#         link: "https://aves.ktu.edu.tr/murat_aykut/"
-        
-#       #- item: Prof.Dr.Vasif NABIYEV
-#       #  link: "https://aves.ktu.edu.tr/vasif/yayinlar/"
-    
-#       - item: Doç.Dr.Önder AYDEMİR
-#         phone: +90 505 487 1850
-#         link: "https://aves.ktu.edu.tr/onderaydemir/projeler/"
 
 career-profile:
      title: Kariyer Hedefim
 #     summary: |
-#       I graduated from computer engineering in 2017.My graduation degree is 2,96; 
-#       currently doing a master’s degree in computer science now, and currently my master’s degree is 4.00.
-#       I am interested in deep learning. My master thesis topic is 3d hyper spectral image classification.
-#       I finished coding part of the thesis. 
-#       My career aim is comprehensive projects such as rocket science, defending industry, medical, and remote sensing. 
-#       I am a ambitious person, but I am not impatient. 
-#       I can work patiently to reach my aims and I can easily devote myself for my projects. 
-#       I can solve the problems about my works. I can immediately react against problems, errors and fails. 
-#       In my off days, I look after some courses such as MIT, Stanford and Harvard and 
-#       I watch video lectures of these kind of universities videos. 
-#       I need a opportunity for prove myself and doing good things for country.
       
 education:
     - degree: Sosyoloji
@@ -85,16 +64,14 @@ projects:
         tagline: Ders kapsamında hocamız ve grubumuz ile yürüttüğümüz Trabzon/Akçaabat ilçesine bağlı Çamlıktepe ve
             Işıklar köylerinde bulunan HES’lerin halk için oluşturduğu avantaj ve 
             dezavantajları öncelikle arşiv taraması daha sonra bizzat halk ile gerçekleştirdiğimiz
-            mülakat/anket ile oluşturup ilgili yerlere sunduk.
+            mülakat/anket ile oluşturup ilgili yerlere sunduk.    
             
-    assignments:
       - title: Sosyal Vaka Çalışması
         link: "#hook"
         tagline: Araştırdığımız bir toplumsal sorun üzerinden sahaya inip belirlediğimiz cinsiyet, 
             yaş grupları, eğitim durumları vb. çeşitli bireylerle mülakat daha sonra duruma bağlı olup 
             anket çalışmasında bulunulmuş ve toplumun küçük kesiminden yola çıkarak araştırmamızın analizi yapılmıştır.
-            
-    assignments:
+
       - title: Anket Çalışmaları
         link: "#hook"
         tagline: Birçok alanda belirlediğimiz verileri, anket halinde düzenleyip çeşitli (kampüs,çarşı,avm’ler,) 
