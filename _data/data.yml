@@ -68,26 +68,44 @@ education:
       time: 2017 - devam ediyor
       details: degree 4.00
 experiences:
-    - role: Sosyal hizmet
+    - role: Sosyal Hizmet Stajyeri
       time: 2017
       company: Hatay Büyük Şehir Belediyesi
       details: |
-        SPSS programı kullanırak vaka analizi yapıldı.
+        Staj yaptığım sürece ilgili birimde çalışan sosyolog ve sosyal hizmet uzmanları tarafından gerekli prosedürler 
+        öğrenildi ve örnek vaka çalışmaları incelendi. Dezavantajlı aile evlerine uzmanlar ile ziyaret edilip ailenin 
+        yapmış olduğu yardım başvurusu vaka yerinde incelendi daha sonra rapor yazılıp ilgili yerlere teslim edildi. 
+        İlgili birimde arşiv taraması yapılarak birçok yeni vaka ile karşılaştırıldı ve çözüm için sosyal hizmet uzmanları 
+        ile ekip halinde çalışmalar yapıldı. Birçok aileye evlerinde keşif yapılıp görüşme sağlandı.
 projects:
     title: Projeler
     assignments:
       - title: Köy projesi
         link: "#hook"
-        tagline: HES için halk ile röpotaj
+        tagline: Ders kapsamında hocamız ve grubumuz ile yürüttüğümüz Trabzon/Akçaabat ilçesine bağlı Çamlıktepe ve
+            Işıklar köylerinde bulunan HES’lerin halk için oluşturduğu avantaj ve 
+            dezavantajları öncelikle arşiv taraması daha sonra bizzat halk ile gerçekleştirdiğimiz
+            mülakat/anket ile oluşturup ilgili yerlere sunduk.
+    assignments:
+      - title: Sosyal Vaka Çalışması
+        link: "#hook"
+        tagline: Araştırdığımız bir toplumsal sorun üzerinden sahaya inip belirlediğimiz cinsiyet, 
+            yaş grupları, eğitim durumları vb. çeşitli bireylerle mülakat daha sonra duruma bağlı olup 
+            anket çalışmasında bulunulmuş ve toplumun küçük kesiminden yola çıkarak araştırmamızın analizi yapılmıştır.
+    assignments:
+      - title: Anket Çalışmaları
+        link: "#hook"
+        tagline: Birçok alanda belirlediğimiz verileri, anket halinde düzenleyip çeşitli (kampüs,çarşı,avm’ler,) 
+            gibi mekanlarda bireylere uygulandı.
 
 skills:
     title: Yetenek &amp; Bilgisayar Kullanım
 
     toolset:
-      - name: SPSS
+      - name: SPSS (Statistical Package for the Social Sciences)
         level: 80%
 
-      - name: R
+      - name: R programlama
         level: 65%
 
 
