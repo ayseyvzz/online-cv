@@ -48,7 +48,7 @@ education:
       details: degree 4.00
 experiences:
     - role: Sosyal Hizmet Stajyeri
-      time: 2017
+      time: 2018
       company: Hatay Büyük Şehir Belediyesi
       details: |
         Staj yaptığım sürece ilgili birimde çalışan sosyolog ve sosyal hizmet uzmanları tarafından gerekli prosedürler 
@@ -81,9 +81,18 @@ skills:
     title: Yetenek &amp; Bilgisayar Kullanım
 
     toolset:
+      - name: Farklı alanlarda bakış açısına sahip olma
+        level: 90%  
+      - name: Etkili bir konuşma ve yazma
+        level: 85%     
+      - name: Eleştirel ve gözlemci yaklaşımda bulunma
+        level: 85%
+      - name: İletişim Yönü
+        level: 85%  
+      - name: Analitik düşünme
+        level: 80%
       - name: SPSS (Statistical Package for the Social Sciences)
         level: 80%
-
       - name: R programlama
         level: 65%
 
