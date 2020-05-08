@@ -89,6 +89,24 @@ projects:
         tagline: Birçok alanda belirlediğimiz verileri, anket halinde düzenleyip çeşitli (kampüs,çarşı,avm’ler,) 
             gibi mekanlarda bireylere uygulandı.
 
+publications:
+    title: Sertifikalar
+    intro: |
+      Kendimi geliştirmek ve yeni şeyler öğrenme merakımı aşağıdaki serfikaları programlarına ve seminerlere
+      katılmaya çalışıyorum. Fırsat buldukça bu tür programlara katılacağım.
+    papers:
+      - title: Beden dili, disksiyon ve etkili iletişim eğitimi
+        authors: Cem ÖĞRETİR
+        conference: 16 Aralık 2018
+
+      - title: 
+        authors: 
+        conference: 
+
+      - title: Sosyologların İstihdam Alanları Üzerine Söyleşi
+        authors: 
+        conference: 28 Mart 2018
+
 skills:
     title: Yetenek &amp; Bilgisayar Kullanım
 
