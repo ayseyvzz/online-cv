@@ -91,16 +91,20 @@ projects:
              mekanlarda vatandaşlara uygulandı.
 
 publications:
-    title: Sertifikalar &amp Panaller &amp Söyleşiler
+    title: Sertifikalar &amp Panaller
     intro: |
       Kendimi geliştirmek ve yeni şeyler öğrenme için sertifikalı eğitimler, seminerler ve panellere
       katılmaya çalışıyorum. Aşadıdakiler ise bunlardan önemli olduklarını düşündüklerim.
     papers:
+      - title: Doğu Karadenizde Kadınlık Halleri
+        authors: Doç. Dr Mine GÖZÜBÜYÜK                  
+        conference: 24 Ekim 2019 
+        
       - title: Kadın-Şiddet-Hukuk
         authors:  Prof.Dr. Ayşe NUHOĞLU (Bahçeşehir Üniversitesi Hukuk Fakültesi Dekanı), 
                   Dr.Öğr. Üyesi Gizem Bilgin AYTAÇ ve Neşe UZUNER
         conference: 8 Nisan 2019
-    
+       
       - title: Beden dili, Disksiyon ve Etkili iletişim eğitimi
         authors: Cem ÖĞRETİR
         conference: 16 Aralık 2018   
