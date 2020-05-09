@@ -56,28 +56,28 @@ projects:
     title: Projeler
     assignments:
       - title: HES'in Köylüler Üzerindeki Etkileri
-        link: "#hook"
+        link: 
         tagline: Ders kapsamında hocamız ve grubumuz ile yürüttüğümüz Trabzon/Akçaabat ilçesine bağlı Çamlıktepe ve
             Işıklar köylerinde bulunan HES’lerin halk için oluşturduğu avantaj ve 
             dezavantajları öncelikle arşiv taraması daha sonra bizzat halk ile gerçekleştirdiğimiz
             mülakat/anket ile oluşturup ilgili yerlere sunduk.    
             
       - title: Sosyal Vaka Çalışması
-        link: "#hook"
+        link: 
         tagline: Araştırdığımız bir toplumsal sorun üzerinden sahaya inip belirlediğimiz cinsiyet, 
             yaş grupları, eğitim durumları vb. çeşitli bireylerle mülakat daha sonra duruma bağlı olup 
             anket çalışmasında bulunulmuş ve toplumun küçük kesiminden yola çıkarak araştırmamızın analizi yapılmıştır.
 
       - title: Anket ve Röportaj ile konum karakteristiği çıkarma
-        link: "#hook"
-        tagline: Birçok alanda belirlediğimiz verileri, anket halinde düzenleyip çeşitli (kampüs,merkez,avm’ler gibi) 
-             mekanlarda vatandaşlara uygulandı.
+        link: 
+        tagline: Birçok alanda belirlediğimiz verileri, anket halinde düzenleyip çeşitli (kampüs,merkez,avm’ler vb) 
+             mekanlarda vatandaşlarla röportaj yapıldı.
 
 publications:
     title: Sertifikalar &amp Panaller
     intro: |
       Kendimi geliştirmek ve yeni şeyler öğrenme için sertifikalı eğitimler, seminerler ve panellere
-      katılmaya çalışıyorum. Aşadıdakiler ise bunlardan önemli olduklarını düşündüklerim.
+      katılmaya çalışıyorum. Aşağıdakiler ise bunlardan önemli olduklarını düşündüklerim.
     papers:
       - title: Doğu Karadenizde Kadınlık Halleri
         authors: Doç. Dr. Mine GÖZÜBÜYÜK                  
