@@ -91,15 +91,19 @@ projects:
             gibi mekanlarda bireylere uygulandı.
 
 publications:
-    title: Sertifikalar
+    title: Sertifikalar &amp Panaller &amp Söyleşiler
     intro: |
-      Kendimi geliştirmek ve yeni şeyler öğrenme merakımı aşağıdaki serfikaları programlarına ve seminerlere
-      katılmaya çalışıyorum. Fırsat buldukça bu tür programlara katılacağım.
+      Kendimi geliştirmek ve yeni şeyler öğrenme için serfikalı eğitim, seminer ve panellere
+      katılmaya çalışıyorum. Aşadıdakiler ise bunlardan önemli olduklarını düşündüklerim.
     papers:
+      - title: Kadın-Şiddet-Hukuk
+        authors:  Ayşe NUHOĞLU, Gizem Bilgin AYTAÇ ve Neşe UZUNER
+        conference: 8 Nisan 2019
+    
       - title: Beden dili, Disksiyon ve Etkili iletişim eğitimi
         authors: Cem ÖĞRETİR
-        conference: 16 Aralık 2018
-
+        conference: 16 Aralık 2018   
+        
       - title: Sosyologların İstihdam Alanları Üzerine Söyleşi (Aile ve Sosyal Politikalar Bakanlığı)
         authors:  Esengül KİBAR, Tayfun KARABİNA, Zeynep SÖNMEZ ve Ayten AKYILDIZ
         conference: 13 Nisan 2017
