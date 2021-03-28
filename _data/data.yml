@@ -36,9 +36,7 @@ career-profile:
         zamanda çalıştığım kurumun/şirketin hedeflerine ulaşabilmesi yolunda sorumluluğu yüksek olan 
         bir pozisyonda görev alarak ve başarılı işler yapmak kariyer hedefimin büyük bir parçasıdır. 
         Bu doğrultuda çalışacağım pozisyonun belirttiğim yeteneklerimi uygulayabileceğimden daha fazlası 
-        olduğunu ispatlamak insanlarla yardım edip onların hayatlarına dokunmak en büyük hayalim. 
-        Sizinlerinde beni değerlendirirken bunları baz almanızı ve bir hayata dokunacağınızı bilmeniz sizin ve benim için
-        en doğru karar olacağını düşünüyorum.
+        olduğunu ispatlamak insanlarla yardım edip onların hayatlarına dokunmak en büyük hayalim.
       
 education:
     - degree: Sosyoloji
@@ -47,16 +45,16 @@ education:
       details:
 experiences:
     - role: Kızılay Gönüllüsü
-      time: 2020
+      time: 2020 - devam ediyor
       company: Türk Kızılay Hatay Toplum merkezi
       details: |
         Kızılay Gönüllüsü olarak girdiğim Hatay Toplum Merkezinde; Türkiye Kızılay Derneği’nin misyonu çerçevesinde düzenli olarak ya da duruma göre 
         ihtiyaç sahibi insan topluluklarına yardım etmek, düzenlenen etkinliklerde personellerle beraber rol almak, 
         Covid sürecinde topluluklara bilgi vermek ve ihtiyaçlarını gidermek (gıda/sosyal paketler hazırlamak vb.) gibi çeşitli faaliyetlerde ve projelerde 
-        danışman olarak görev aldım.
+        danışman olarak görev almaktayım.
         
     - role: Sosyal Hizmet Stajyeri
-      time: 2018
+      time: 2018 - 3 ay
       company: Hatay Büyük Şehir Belediyesi
       details: |
         Staj yaptığım sürece ilgili birimde çalışan sosyolog ve sosyal hizmet uzmanları tarafından gerekli prosedürler 
@@ -118,7 +116,7 @@ publications:
         conference: Nisan 2017
 
 skills:
-    title: Yetenek &amp; Bilgisayar Kullanım
+    title: Yetkinliklerim
 
     toolset:
       - name: Farklı alanlarda bakış açısına sahip olma
