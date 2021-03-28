@@ -88,40 +88,45 @@ publications:
       Kendimi geliştirmek ve yeni şeyler öğrenme için sertifikalı eğitimler, seminerler ve panellere
       katılmaya çalışıyorum. Aşağıdakiler ise bunlardan önemli olduklarını düşündüklerim.
     papers:
+      - title: Afetler ve Korunma Bilinci Eğitici Eğitimleri
+        authors: Kızılay Akademi
+        conference: Şubat 2021
+
+      - title: Conflictus "Çatışma Çözümü ve Sosyal Arabuluculuk"
+        authors: Conflictus Conflict Resolution Training and Consultancy
+                  (Uyuşmazlık Çözümü Eğitim ve Danışmanlık)
+        conference: Ekim 2020
+
       - title: Doğu Karadenizde Kadınlık Halleri
         authors: Doç. Dr. Mine GÖZÜBÜYÜK                  
-        conference: 24 Ekim 2019 
+        conference: Ekim 2019
         
       - title: Kadın - Şiddet - Hukuk
         authors:  Prof.Dr. Ayşe NUHOĞLU (Bahçeşehir Üniversitesi Hukuk Fakültesi Dekanı), 
                   Gizem Bilgin AYTAÇ ve Neşe UZUNER
-        conference: 8 Nisan 2019
+        conference: Nisan 2019
        
       - title: Beden dili, Disksiyon ve Etkili iletişim eğitimi
         authors: Cem ÖĞRETİR
-        conference: 16 Aralık 2018   
+        conference: Aralık 2018
         
       - title: Sosyologların İstihdam Alanları Üzerine Söyleşi (Aile ve Sosyal Politikalar Bakanlığı)
         authors:  Esengül KİBAR, Tayfun KARABİNA, Zeynep SÖNMEZ ve Ayten AKYILDIZ
-        conference: 13 Nisan 2017
+        conference: Nisan 2017
 
 skills:
     title: Yetenek &amp; Bilgisayar Kullanım
 
     toolset:
       - name: Farklı alanlarda bakış açısına sahip olma
-        level: 92%  
+        level: 70%
       - name: Etkili bir konuşma ve yazma
-        level: 88%     
-      - name: Eleştirel ve gözlemci yaklaşımda bulunma
-        level: 87%
-      - name: İletişim Yönü
-        level: 83%  
-      - name: Analitik düşünme yeteneği
-        level: 75%
-      - name: SPSS (Statistical Package for the Social Sciences)
         level: 65%
-      - name: R programlama
+      - name: Eleştirel ve gözlemci yaklaşımda bulunma
+        level: 65%
+      - name: İletişim Yönü
+        level: 65%
+      - name: Analitik düşünme yeteneği
         level: 50%
-
-
+      - name: SPSS (Statistical Package for the Social Sciences)
+        level: 40%
